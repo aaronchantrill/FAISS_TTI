@@ -1,0 +1,10 @@
+[Plugin]
+Name = FAISS TTI
+Version = 1.0.0
+License = MIT
+URL = https://projectnaomi.com/
+Description = Intent parser using Facebook AI Similarity Search
+
+[Author]
+Name = Naomi Project
+URL = https://projectnaomi.com/
