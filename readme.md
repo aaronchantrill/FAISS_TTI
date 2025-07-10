@@ -37,6 +37,8 @@ The plugin’s primary function is to analyze user speech, identify intents thro
 
 ### Python Requirements:
 - `faiss`
+- `numpy`
+- `sentence-transformers`
 
 These dependencies ensure that the necessary libraries and tools for neural network training and intent recognition are properly set up.
 
@@ -50,7 +52,7 @@ These dependencies ensure that the necessary libraries and tools for neural netw
 2. **Install Required Dependencies**: Install the necessary packages by running:
    ```bash
    workon Naomi
-   pip install faiss
+   pip install faiss numpy sentence-transformers
    ```
 
 3. **Add to Naomi Configuration**: Once installed, configure the plugin within the Naomi framework by updating the plugin directory with the path to the FAISS TTI plugin.
