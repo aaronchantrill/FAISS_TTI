@@ -1,10 +1,10 @@
 [Plugin]
 Name = FAISS TTI
-Version = 1.0.0
+Version = 0.1.0
 License = MIT
-URL = https://projectnaomi.com/
-Description = Intent parser using Facebook AI Similarity Search
+URL = https://github.com/aaronchantrill/FAISS_TTI.git
+Description = Intent parser allows Naomi (https://github.com/NaomiProject/Naomi.git) to use Facebook AI Similarity Search
 
 [Author]
-Name = Naomi Project
-URL = https://projectnaomi.com/
+Name = Aaron Chantrill
+URL = https://github.com/aaronchantrill
